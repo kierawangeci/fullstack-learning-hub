@@ -1,6 +1,5 @@
 ## **📚 STUDY-MATERIALS/LEARNING-ROADMAP.md**
 
-```markdown
 # 🎯 Complete Learning Roadmap
 
 ## Phase 1: Foundations (Month 1-2)
