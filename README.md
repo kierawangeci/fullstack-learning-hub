@@ -36,3 +36,15 @@ A comprehensive resource hub for building affiliate marketing platforms and mast
 2. [Affiliate Platform Structure](PROJECT-STRUCTURE/COMPLETE-STRUCTURE.md)
 3. [Other Project Ideas](OTHER-PROJECTS/PROJECT-CATALOG.md)
 
+### Quick Start:
+```bash
+# Clone repository
+git clone https://github.com/yourusername/affiliate-learning-hub.git
+
+# Navigate to project starters
+cd affiliate-learning-hub/QUICK-STARTERS
+
+# Choose your starter
+cd fullstack-starter
+npm install
+npm run dev
